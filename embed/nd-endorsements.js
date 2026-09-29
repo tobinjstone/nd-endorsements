@@ -187,7 +187,7 @@
     });
     return rows.slice(1).map(function (r) {
       var o = {};
-      Object.keys(idx).forEach(function (k) { o[k] = idx[k] > -1 ? (r[idx[k]] || "").trim() : ""; });
+      Object.keys(idx).forEach(function (k) { o[k] = idx[k] > -1 ? fixMojibake((r[idx[k]] || "").trim()) : ""; });
       return o;
     });
   }
@@ -212,6 +212,12 @@
       ? (order ? (STATES[st] || st) + "’s " + ordinal(order) + " District" : (STATES[st] || st) + " At-Large")
       : (STATES[st] || st) + (office === "senate" ? " U.S. Senate" : " Governor");
     return { office: office, state: st, stateName: STATES[st] || st, label: label, order: order, district: district };
+  }
+
+  // Undo UTF-8 text that was decoded as Latin-1 on import (e.g. "AndrÃ©" -> "André").
+  function fixMojibake(v) {
+    if (!/[Â-Ã][-¿]/.test(v)) return v;
+    try { return decodeURIComponent(escape(v)); } catch (e) { return v; }
   }
 
   function isYes(v) { return !/^(no|n|false|0|hide|hidden)$/i.test(v || ""); }
