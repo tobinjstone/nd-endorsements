@@ -1,0 +1,7 @@
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# Internal tracker exports include PAC/caucus notes; keep them out of the public repo.
+data/source/
