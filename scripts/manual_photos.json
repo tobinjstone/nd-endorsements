@@ -16,8 +16,9 @@
   },
   "chaz-molder": {
     "name": "Chaz Molder",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Chaz_Molder_20251010_072251.jpeg",
-    "page": "https://ballotpedia.org/Chaz_Molder"
+    "url": "https://chazmolder.com/wp-content/uploads/2025/08/chaz-headshot@2x.png",
+    "page": "https://chazmolder.com",
+    "inset": 30
   },
   "christina-hines": {
     "name": "Christina Hines",
@@ -26,8 +27,8 @@
   },
   "joanna-mendoza": {
     "name": "JoAnna Mendoza",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/jmendoza.jpg",
-    "page": "https://ballotpedia.org/JoAnna_Mendoza"
+    "url": "https://jstreetpac.org/wp-content/uploads/2025/06/JoAnna-Mendoza-Headshot-1.jpeg",
+    "page": "https://jstreetpac.org/candidate/joanna-mendoza/"
   },
   "bale-dalton": {
     "name": "Bale Dalton",
@@ -46,8 +47,8 @@
   },
   "blake-gendebien": {
     "name": "Blake Gendebien",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Blake_Gendebien.png",
-    "page": "https://ballotpedia.org/Blake_Gendebien"
+    "url": "https://blakegendebienforcongress.com/wp-content/uploads/2026/07/Hero-compressed.jpg",
+    "page": "https://blakegendebienforcongress.com/"
   },
   "leela-gray": {
     "name": "Leela Gray",
@@ -66,8 +67,9 @@
   },
   "everett-wess": {
     "name": "Everett Wess",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Everett_Wess_20260429_110148.jpg",
-    "page": "https://ballotpedia.org/Everett_Wess"
+    "url": "https://img1.wsimg.com/isteam/ip/21f79d0e-c317-4c6a-9685-0267b714fb22/_MG_3346.jpg",
+    "page": "https://wessforsenate.com",
+    "face_share": 0.45
   },
   "jermaine-johnson": {
     "name": "Jermaine Johnson",
@@ -91,18 +93,18 @@
   },
   "seth-bodnar": {
     "name": "Seth Bodnar",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Seth-Bodnar-Picture_20260601_180823_38181_1.jpg",
-    "page": "https://ballotpedia.org/Seth_Bodnar"
+    "url": "https://run.imgix.net/ce73de18-3d81-4625-8bb3-7868e4c01170/5e66deac-ec6f-431d-beab-bcc3f7b2d975/5e66deac-ec6f-431d-beab-bcc3f7b2d975.jpg",
+    "page": "https://www.sethformontana.com/"
   },
   "gina-hinojosa": {
     "name": "Gina Hinojosa",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Gina_Hinojosa_portrait.jpg",
-    "page": "https://ballotpedia.org/Gina_Hinojosa"
+    "url": "https://secure.actblue.com/x/object/actblue-cyanotypes/replaced_images/branding/473813/d619ec88-0930-4f23-b374-a04acd8f0354-Headshot2-Retouched-6dd5e68a.png",
+    "page": "https://ginafortexas.com"
   },
   "manny-rutinel": {
     "name": "Manny Rutinel",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/mrutinel.png",
-    "page": "https://ballotpedia.org/Manny_Rutinel"
+    "url": "https://www.mannyforcolorado.com/s/DSCF8117-main-picture-headshot-1.JPG",
+    "page": "https://www.mannyforcolorado.com/media"
   },
   "terri-pickens": {
     "name": "Terri Pickens",
@@ -116,8 +118,8 @@
   },
   "cindy-holscher": {
     "name": "Cindy Holscher",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Cindy-Holscher.jpg",
-    "page": "https://ballotpedia.org/Cindy_Holscher"
+    "url": "https://fls-a2a2b9cf-6696-4c35-9dd2-e99fc5d38b25.laravel.cloud/containers/images/cindy-blue-headshot-a.jpg/b38cc0ea4e83120259f437aa30c30650/cindy-blue-headshot-a.webp",
+    "page": "https://www.cindyforkansas.com/"
   },
   "amy-acton": {
     "name": "Amy Acton",
@@ -136,8 +138,9 @@
   },
   "marquita-bradshaw": {
     "name": "Marquita Bradshaw",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/IMG-7913_20260703_205433_44044_1.jpeg",
-    "page": "https://ballotpedia.org/Marquita_Bradshaw"
+    "url": "https://run.imgix.net/a2c2e1e5-4319-4e0f-b2d8-d1dac82206c1/02ec65f5-8f9d-4852-945e-e56f4d1b54d3/02ec65f5-8f9d-4852-945e-e56f4d1b54d3.png",
+    "page": "https://marquitabradshaw.com",
+    "face_share": 0.45
   },
   "helena-buonanno-foulkes": {
     "name": "Helena Buonanno Foulkes",
@@ -146,8 +149,8 @@
   },
   "jonathan-kreiss-tomkins": {
     "name": "Jonathan Kreiss-Tomkins",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Sitka_Background_off_center_20260430_191504_19058.jpeg",
-    "page": "https://ballotpedia.org/Jonathan_Kreiss-Tomkins"
+    "url": "https://images.squarespace-cdn.com/content/v1/6982d88f853910439067d086/1770182800959-REUC5VHR4WA3AZFEMM0L/JKT011926_3.jpg",
+    "page": "https://www.jktforak.com/meet-jkt"
   },
   "sam-forstag": {
     "name": "Sam Forstag",
@@ -156,23 +159,23 @@
   },
   "kathy-hochul": {
     "name": "Kathy Hochul",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/ad05paDl_400x400.jpg",
-    "page": "https://ballotpedia.org/Kathy_Hochul"
+    "url": "https://www.governor.ny.gov/sites/default/files/2023-01/GovKathyHochul_FeatureBio_Photo.jpg",
+    "page": "https://www.governor.ny.gov/"
   },
   "jamie-ager": {
     "name": "Jamie Ager",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/JamieAger2025.png",
-    "page": "https://ballotpedia.org/Jamie_Ager"
+    "url": "https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Ager-Headshot-Square.jpg",
+    "page": "https://agerforcongress.com/media"
   },
   "jacqui-irwin": {
     "name": "Jacqui Irwin",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Jacqui_Irwin.jpg",
-    "page": "https://ballotpedia.org/Jacqui_Irwin"
+    "url": "https://images.squarespace-cdn.com/content/v1/5df831e93182260fee97e615/1599848185766-G3TZDU3F46TBSYJD2GAO/meeno-Jacqui+2020.08+-0238+%281%29.jpeg",
+    "page": "https://jacquiirwin.com/photo-gallery"
   },
   "lindsay-james": {
     "name": "Lindsay James",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Lindsay-James.PNG",
-    "page": "https://ballotpedia.org/Lindsay_James"
+    "url": "https://run.imgix.net/becc34d9-ed8e-42ef-89be-86cb643c17e9/1c80ed44-c867-4987-9dd5-6a2a18c0a553/0cb3078e-8365-40f1-a821-d1f2575abb43.webp",
+    "page": "https://www.lindsayforiowa.com"
   },
   "hallie-shoffner": {
     "name": "Hallie Shoffner",
@@ -196,8 +199,8 @@
   },
   "mitchell-berman": {
     "name": "Mitchell Berman",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Mitchell_Berman.png",
-    "page": "https://ballotpedia.org/Mitchell_Berman"
+    "url": "https://drive.google.com/uc?export=download&id=1mv-3xAHzcquF19IkgPh8KAI-BusJSwSV",
+    "page": "https://www.bermanforcongress.com/media"
   },
   "kenneth-casner": {
     "name": "Kenneth Casner",
@@ -211,8 +214,8 @@
   },
   "dan-ahlers": {
     "name": "Dan Ahlers",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Dan-Ahlers.jpg",
-    "page": "https://ballotpedia.org/Dan_Ahlers"
+    "url": "https://static.wixstatic.com/media/9938ef_a27616fc52c441d698399982c690b5d7~mv2.jpg",
+    "page": "https://www.danahlers.com"
   },
   "cinde-warmington": {
     "name": "Cinde Warmington",
@@ -221,13 +224,13 @@
   },
   "sean-mccann": {
     "name": "Sean McCann",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Sean_McCann.jpg",
-    "page": "https://ballotpedia.org/Sean_McCann"
+    "url": "https://senatedems.com/mccann/wp-content/uploads/sites/20/2022/12/MDS_McCann_DSC5430.jpg",
+    "page": "https://senatedems.com/mccann/bio/"
   },
   "jake-johnson": {
     "name": "Jake Johnson",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/headshot_20260926_153053_59047_1.jpg",
-    "page": "https://ballotpedia.org/Jake_Johnson_(Minnesota)"
+    "url": "https://run.imgix.net/98efac20-09d5-40de-bced-671be80133fe/03447014-d5e8-4c07-8822-4fca2f06ea84/03447014-d5e8-4c07-8822-4fca2f06ea84.jpeg?rect=640,1900,2880,3600&w=1600&q=85",
+    "page": "https://www.jakejohnsonforcongress.com/media-kit"
   },
   "donna-miller": {
     "name": "Donna Miller",
@@ -246,13 +249,13 @@
   },
   "adam-hamilton": {
     "name": "Adam Hamilton",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Hamilton-Headshot-under-2MB_20260803_203908_49175_1.jpg",
-    "page": "https://ballotpedia.org/Adam_Hamilton_(Kansas)"
+    "url": "https://hamiltonforkansas.com/wp-content/uploads/2026/04/Mainbg4-scaled.jpg",
+    "page": "https://hamiltonforkansas.com/"
   },
   "doug-jones": {
     "name": "Doug Jones",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/800px-Senator_Doug_Jones_official_photo.jpg",
-    "page": "https://ballotpedia.org/Doug_Jones_(Alabama)"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Senator_Doug_Jones_official_photo_%28cropped_2%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Senator_Doug_Jones_official_photo_(cropped_2).jpg"
   },
   "johnny-garcia": {
     "name": "Johnny Garcia",
@@ -266,7 +269,68 @@
   },
   "chris-gallant": {
     "name": "Chris Gallant",
-    "url": "https://s3.amazonaws.com/ballotpedia-api4/files/Christopher_Gallant.png",
-    "page": "https://ballotpedia.org/Christopher_Gallant"
+    "url": "https://gallantny.com/wp-content/uploads/2026/06/DSC_2924-scaled.jpeg",
+    "page": "https://gallantny.com/"
+  },
+  "david-jolly": {
+    "name": "David Jolly",
+    "url": "https://avmwarroom.com/candidates/david-jolly-headshot.jpg",
+    "page": "https://davidjolly.com/"
+  },
+  "amish-shah": {
+    "name": "Amish Shah",
+    "url": "https://images.squarespace-cdn.com/content/v1/644cbe97b9c0767684efd237/68aaf900-4ac8-4563-9bf8-a518186f0323/401_Amish_Shah_090624.jpg",
+    "page": "https://www.amishforarizona.com/gallery"
+  },
+  "melissa-bean": {
+    "name": "Melissa Bean",
+    "url": "https://run.imgix.net/01a39ac7-16f9-4503-be10-d460e6101335/964bfd9f-b8aa-487a-abf2-fe05a2299c04/964bfd9f-b8aa-487a-abf2-fe05a2299c04.jpeg",
+    "page": "https://www.melissabeanforcongress.com"
+  },
+  "adrian-boafo": {
+    "name": "Adrian Boafo",
+    "url": "https://static.wixstatic.com/media/45346f_595805a01a28483e8cbf486afb202e2f~mv2.jpg",
+    "page": "https://www.adrianboafo.com"
+  },
+  "dan-osborn": {
+    "name": "Dan Osborn",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Osborn_Headshot_1_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Osborn_Headshot_1_(cropped).jpg"
+  },
+  "josh-shapiro": {
+    "name": "Josh Shapiro",
+    "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/governor/headshot/governor_shapiro_headshot.jpg",
+    "page": "https://www.pa.gov/governor/meet-governor-josh-shapiro.html"
+  },
+  "katie-hobbs": {
+    "name": "Katie Hobbs",
+    "url": "https://www.nga.org/wp-content/uploads/2023/01/governor-katie-hobbs.jpeg",
+    "page": "https://www.nga.org/governor/katie-hobbs/"
+  },
+  "josh-green": {
+    "name": "Josh Green",
+    "url": "https://governor.hawaii.gov/wp-content/uploads/2023/02/governor_green_-046.jpg",
+    "page": "https://governor.hawaii.gov/about/"
+  },
+  "aaron-ford": {
+    "name": "Aaron Ford",
+    "url": "https://run.imgix.net/0673dc2a-efb3-406b-8853-c586c6af7981/41008dbc-28f0-411b-978e-b5cbf4eb1b83/41008dbc-28f0-411b-978e-b5cbf4eb1b83.jpg?rect=2850,200,3400,4250&w=1200&fm=jpg&q=85",
+    "page": "https://www.fordfornevada.com/media"
+  },
+  "phil-weiser": {
+    "name": "Phil Weiser",
+    "url": "https://philforcolorado.com/wp-content/uploads/2024/12/HDbg3.jpg",
+    "page": "https://philforcolorado.com/"
+  },
+  "david-crowley": {
+    "name": "David Crowley",
+    "url": "https://live.staticflickr.com/65535/54716433676_9f97086697_o.jpg",
+    "page": "https://www.flickr.com/photos/davidcrowleymke/54716433676/",
+    "box": [
+      1450,
+      200,
+      3000,
+      3750
+    ]
   }
 }

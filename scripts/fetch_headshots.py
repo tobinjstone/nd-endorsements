@@ -100,7 +100,7 @@ def find_face(img):
     return max(faces, key=lambda f: f[2] * f[3])
 
 
-def crop_portrait(data):
+def crop_portrait(data, inset=0, face_share=0.36, box=None):
     img = Image.open(io.BytesIO(data))
     img = ImageOps.exif_transpose(img)
     if img.mode in ("RGBA", "LA", "P"):
@@ -108,14 +108,21 @@ def crop_portrait(data):
         bg = Image.new("RGBA", img.size, "white")
         img = Image.alpha_composite(bg, img)
     img = img.convert("RGB")
+    if inset:
+        # Shave a border baked into the source image (e.g. a frame around a PNG).
+        img = img.crop((inset, inset, img.width - inset, img.height - inset))
     w, h = img.size
     target = SIZE[0] / SIZE[1]
 
-    face = find_face(img)
-    if face is not None:
-        # Frame head-and-shoulders: face ~36% of crop height, eyes a bit above center.
+    face = None if box else find_face(img)
+    if box:
+        # Hand-picked [x, y, w, h] in source pixels, for photos the detector misreads.
+        x, y, bw, bh = box
+        box = (x, y, x + bw, y + bh)
+    elif face is not None:
+        # Frame head-and-shoulders: face ~36% of crop height (face_share), eyes a bit above center.
         fx, fy, fw, fh = face
-        ch = min(h, fh / 0.36)
+        ch = min(h, fh / face_share)
         cw = ch * target
         if cw > w:
             cw = w
@@ -205,7 +212,7 @@ def main():
     args = ap.parse_args()
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    rows = list(csv.DictReader(DATA.open(encoding="utf-8")))
+    rows = list(csv.DictReader(DATA.open(encoding="utf-8-sig")))
     manual = json.loads(MANUAL.read_text(encoding="utf-8")) if MANUAL.exists() else {}
     legislators = get(LEGISLATORS_URL).json()
     sources = load_sources()
@@ -221,6 +228,9 @@ def main():
             continue
 
         url = page = src = None
+        inset = manual.get(slug, {}).get("inset", 0)
+        face_share = manual.get(slug, {}).get("face_share", 0.36)
+        box = manual.get(slug, {}).get("box")
         if slug in manual:
             url, src = manual[slug]["url"], "manual"
             page = manual[slug].get("page", "")
@@ -243,7 +253,7 @@ def main():
             print(f"MISSING  {name:28} {seat:8} wiki page: {page}")
             continue
         try:
-            img = crop_portrait(get(url).content)
+            img = crop_portrait(get(url).content, inset, face_share, box)
             img.save(dest, "JPEG", quality=84, optimize=True, progressive=True)
             sources[slug] = {"slug": slug, "name": name, "source": src, "url": url, "page": page or ""}
             print(f"ok       {name:28} {seat:8} {src}")

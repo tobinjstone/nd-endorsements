@@ -38,7 +38,8 @@ def main():
             "Photo URL": "",
             "Website": "",
         })
-    with OUT.open("w", encoding="utf-8", newline="") as f:
+    # utf-8-sig adds a BOM so Google Sheets imports accented names (Luján) correctly.
+    with OUT.open("w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)
         w.writeheader()
         w.writerows(out)

@@ -90,5 +90,18 @@ Faces are detected and cropped to a consistent head-and-shoulders frame. Commit 
 ## Photo sources and rights
 `images/headshots/SOURCES.csv` records the source of every photo.
 - **115 official congressional portraits** (unitedstates.github.io). U.S. government works, public domain.
-- **38 Wikipedia/Wikimedia Commons lead images.** Most are public domain official portraits or CC-licensed. Check the Commons page if you need exact attribution.
-- **54 from Ballotpedia.** Most are campaign-supplied headshots. For anyone prominent on the page, it's worth confirming with the campaign or swapping in their press-kit headshot.
+- **65 hand-picked photos** listed in `scripts/manual_photos.json`. Most come from campaign media kits and press pages; the rest are official government portraits (governor offices, NGA, state legislatures), Wikimedia Commons, or candidate-supplied Ballotpedia headshots.
+- **27 Wikipedia/Wikimedia Commons lead images.** Most are public domain official portraits or CC-licensed. Check the Commons page if you need exact attribution.
+
+Campaigns publish these photos for press use, but for anyone featured prominently it's worth confirming with the campaign.
+
+### Fixing a bad crop
+Entries in `scripts/manual_photos.json` accept optional framing settings:
+
+| Key | Effect |
+|---|---|
+| `face_share` | How much of the frame height the face fills (default `0.36`). Raise it to zoom in, e.g. `0.45`. |
+| `box` | `[x, y, width, height]` in source pixels. Use it when face detection misses (very large or unusual photos). Keep it 4:5. |
+| `inset` | Pixels to shave off every edge first, for sources with a baked-in border. |
+
+After editing, run `python scripts/fetch_headshots.py --force --only "Name"` and commit the new JPG.

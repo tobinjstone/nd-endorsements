@@ -1,11 +1,11 @@
 slug,name,source,url,page
-aaron-ford,Aaron Ford,wikipedia,https://upload.wikimedia.org/wikipedia/commons/5/5c/Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled,Aaron Ford (Nevada politician)
+aaron-ford,Aaron Ford,manual,"https://run.imgix.net/0673dc2a-efb3-406b-8853-c586c6af7981/41008dbc-28f0-411b-978e-b5cbf4eb1b83/41008dbc-28f0-411b-978e-b5cbf4eb1b83.jpg?rect=2850,200,3400,4250&w=1200&fm=jpg&q=85",https://www.fordfornevada.com/media
 adam-gray,Adam Gray,congress,https://unitedstates.github.io/images/congress/original/G000605.jpg,G000605
-adam-hamilton,Adam Hamilton,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Hamilton-Headshot-under-2MB_20260803_203908_49175_1.jpg,https://ballotpedia.org/Adam_Hamilton_(Kansas)
+adam-hamilton,Adam Hamilton,manual,https://hamiltonforkansas.com/wp-content/uploads/2026/04/Mainbg4-scaled.jpg,https://hamiltonforkansas.com/
 adam-smith,Adam Smith,congress,https://unitedstates.github.io/images/congress/original/S000510.jpg,S000510
-adrian-boafo,Adrian Boafo,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Adrian_Boafo_Feb2023.jpg/960px-Adrian_Boafo_Feb2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Adrian Boafo
+adrian-boafo,Adrian Boafo,manual,https://static.wixstatic.com/media/45346f_595805a01a28483e8cbf486afb202e2f~mv2.jpg,https://www.adrianboafo.com
 ami-bera,Ami Bera,congress,https://unitedstates.github.io/images/congress/original/B001287.jpg,B001287
-amish-shah,Amish Shah,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Amish_Shah_by_Gage_Skidmore_2.jpg/960px-Amish_Shah_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Amish Shah
+amish-shah,Amish Shah,manual,https://images.squarespace-cdn.com/content/v1/644cbe97b9c0767684efd237/68aaf900-4ac8-4563-9bf8-a518186f0323/401_Amish_Shah_090624.jpg,https://www.amishforarizona.com/gallery
 amy-acton,Amy Acton,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Amy_Acton_20250211_075037.jpg,https://ballotpedia.org/Amy_Acton
 andre-carson,André Carson,congress,https://unitedstates.github.io/images/congress/original/C001072.jpg,C001072
 andrea-salinas,Andrea Salinas,congress,https://unitedstates.github.io/images/congress/original/S001226.jpg,S001226
@@ -16,7 +16,7 @@ ben-ray-lujan,Ben Ray Luján,congress,https://unitedstates.github.io/images/cong
 bill-foster,Bill Foster,congress,https://unitedstates.github.io/images/congress/original/F000454.jpg,F000454
 bill-hill,Bill Hill,manual,https://s3.amazonaws.com/ballotpedia-api4/files/BillHillHeadshot_20260921_233711_57441_1.jpg,https://ballotpedia.org/Bill_Hill
 bill-keating,Bill Keating,congress,https://unitedstates.github.io/images/congress/original/K000375.jpg,K000375
-blake-gendebien,Blake Gendebien,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Blake_Gendebien.png,https://ballotpedia.org/Blake_Gendebien
+blake-gendebien,Blake Gendebien,manual,https://blakegendebienforcongress.com/wp-content/uploads/2026/07/Hero-compressed.jpg,https://blakegendebienforcongress.com/
 bob-brooks,Bob Brooks,manual,https://s3.amazonaws.com/ballotpedia-api4/files/bobbrooks.jpg,https://ballotpedia.org/Bob_Brooks_(Pennsylvania)
 bob-harvie,Bob Harvie,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Bob_Harvie_20260402_045208.jpg,https://ballotpedia.org/Bob_Harvie
 bobby-pulido,Bobby Pulido,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Bobby_Pulido_20260210_121044.png,https://ballotpedia.org/Bobby_Pulido
@@ -27,22 +27,22 @@ brian-bengs,Brian Bengs,manual,https://s3.amazonaws.com/ballotpedia-api4/files/B
 brian-poindexter,Brian Poindexter,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Brian_Poindexter_20260119_024913.jpg,https://ballotpedia.org/Brian_Poindexter
 brittany-pettersen,Brittany Pettersen,congress,https://unitedstates.github.io/images/congress/original/P000620.jpg,P000620
 cait-conley,Cait Conley,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Cait_Conley_20250505_055506.png,https://ballotpedia.org/Cait_Conley
-chaz-molder,Chaz Molder,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Chaz_Molder_20251010_072251.jpeg,https://ballotpedia.org/Chaz_Molder
+chaz-molder,Chaz Molder,manual,https://chazmolder.com/wp-content/uploads/2025/08/chaz-headshot@2x.png,https://chazmolder.com
 chris-coons,Chris Coons,congress,https://unitedstates.github.io/images/congress/original/C001088.jpg,C001088
-chris-gallant,Chris Gallant,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Christopher_Gallant.png,https://ballotpedia.org/Christopher_Gallant
+chris-gallant,Chris Gallant,manual,https://gallantny.com/wp-content/uploads/2026/06/DSC_2924-scaled.jpeg,https://gallantny.com/
 chris-pappas,Chris Pappas,congress,https://unitedstates.github.io/images/congress/original/P000614.jpg,P000614
 chrissy-houlahan,Chrissy Houlahan,congress,https://unitedstates.github.io/images/congress/original/H001085.jpg,H001085
 christina-bohannan,Christina Bohannan,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/ChristinaBohannan.jpg/960px-ChristinaBohannan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Christina Bohannan
 christina-hines,Christina Hines,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Christina_Hines_20250717_044310.jpeg,https://ballotpedia.org/Christina_Hines
 cinde-warmington,Cinde Warmington,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Cinde_Warmington.jpg,https://ballotpedia.org/Cinde_Warmington
-cindy-holscher,Cindy Holscher,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Cindy-Holscher.jpg,https://ballotpedia.org/Cindy_Holscher
+cindy-holscher,Cindy Holscher,manual,https://fls-a2a2b9cf-6696-4c35-9dd2-e99fc5d38b25.laravel.cloud/containers/images/cindy-blue-headshot-a.jpg/b38cc0ea4e83120259f437aa30c30650/cindy-blue-headshot-a.webp,https://www.cindyforkansas.com/
 cory-booker,Cory Booker,congress,https://unitedstates.github.io/images/congress/original/B001288.jpg,B001288
 cyndi-munson,Cyndi Munson,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Cyndi_Munson.jpg/960px-Cyndi_Munson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Cyndi Munson
-dan-ahlers,Dan Ahlers,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Dan-Ahlers.jpg,https://ballotpedia.org/Dan_Ahlers
-dan-osborn,Dan Osborn,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Osborn_Headshot_2_%28cropped%29.jpg/960px-Osborn_Headshot_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Dan Osborn
+dan-ahlers,Dan Ahlers,manual,https://static.wixstatic.com/media/9938ef_a27616fc52c441d698399982c690b5d7~mv2.jpg,https://www.danahlers.com
+dan-osborn,Dan Osborn,manual,https://upload.wikimedia.org/wikipedia/commons/8/89/Osborn_Headshot_1_%28cropped%29.jpg,https://commons.wikimedia.org/wiki/File:Osborn_Headshot_1_(cropped).jpg
 darren-soto,Darren Soto,congress,https://unitedstates.github.io/images/congress/original/S001200.jpg,S001200
-david-crowley,David Crowley,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Milwaukee_County_Executive_David_Crowley_during_Democratic_Primary_debate_on_July_28%2C_2026.jpg/960px-Milwaukee_County_Executive_David_Crowley_during_Democratic_Primary_debate_on_July_28%2C_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,David Crowley (Wisconsin politician)
-david-jolly,David Jolly,wikipedia,https://upload.wikimedia.org/wikipedia/commons/6/66/David_Jolly_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled,David Jolly
+david-crowley,David Crowley,manual,https://live.staticflickr.com/65535/54716433676_9f97086697_o.jpg,https://www.flickr.com/photos/davidcrowleymke/54716433676/
+david-jolly,David Jolly,manual,https://avmwarroom.com/candidates/david-jolly-headshot.jpg,https://davidjolly.com/
 deb-haaland,Deb Haaland,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Secretary_Deb_Haaland%2C_official_headshot.jpg/960px-Secretary_Deb_Haaland%2C_official_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Deb Haaland
 debbie-wasserman-schultz,Debbie Wasserman Schultz,congress,https://unitedstates.github.io/images/congress/original/W000797.jpg,W000797
 deborah-ross,Deborah Ross,congress,https://unitedstates.github.io/images/congress/original/R000305.jpg,R000305
@@ -52,7 +52,7 @@ don-beyer,Don Beyer,congress,https://unitedstates.github.io/images/congress/orig
 don-davis,Don Davis,congress,https://unitedstates.github.io/images/congress/original/D000230.jpg,D000230
 donald-norcross,Donald Norcross,congress,https://unitedstates.github.io/images/congress/original/N000188.jpg,N000188
 donna-miller,Donna Miller,manual,https://s3.amazonaws.com/ballotpedia-api4/files/donnamiller.jpg,https://ballotpedia.org/Donna_Miller_(Illinois)
-doug-jones,Doug Jones,manual,https://s3.amazonaws.com/ballotpedia-api4/files/800px-Senator_Doug_Jones_official_photo.jpg,https://ballotpedia.org/Doug_Jones_(Alabama)
+doug-jones,Doug Jones,manual,https://upload.wikimedia.org/wikipedia/commons/f/f0/Senator_Doug_Jones_official_photo_%28cropped_2%29.jpg,https://commons.wikimedia.org/wiki/File:Senator_Doug_Jones_official_photo_(cropped_2).jpg
 dr-richard-pan,Dr. Richard Pan,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Richard_Pan_2010.jpg/960px-Richard_Pan_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Richard Pan
 ed-case,Ed Case,congress,https://unitedstates.github.io/images/congress/original/C001055.jpg,C001055
 elaine-luria,Elaine Luria,wikipedia,https://upload.wikimedia.org/wikipedia/commons/9/9e/Rep._Elaine_Luria_official_photo%2C_117th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled,Elaine Luria
@@ -60,14 +60,14 @@ emilia-sykes,Emilia Sykes,congress,https://unitedstates.github.io/images/congres
 emily-randall,Emily Randall,congress,https://unitedstates.github.io/images/congress/original/R000621.jpg,R000621
 eric-sorensen,Eric Sorensen,congress,https://unitedstates.github.io/images/congress/original/S001225.jpg,S001225
 eugene-vindman,Eugene Vindman,congress,https://unitedstates.github.io/images/congress/original/V000138.jpg,V000138
-everett-wess,Everett Wess,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Everett_Wess_20260429_110148.jpg,https://ballotpedia.org/Everett_Wess
+everett-wess,Everett Wess,manual,https://img1.wsimg.com/isteam/ip/21f79d0e-c317-4c6a-9685-0267b714fb22/_MG_3346.jpg,https://wessforsenate.com
 frank-mrvan,Frank Mrvan,congress,https://unitedstates.github.io/images/congress/original/M001214.jpg,M001214
 gabe-amo,Gabe Amo,congress,https://unitedstates.github.io/images/congress/original/A000380.jpg,A000380
 gabe-vasquez,Gabe Vasquez,congress,https://unitedstates.github.io/images/congress/original/V000136.jpg,V000136
 george-latimer,George Latimer,congress,https://unitedstates.github.io/images/congress/original/L000606.jpg,L000606
 george-whitesides,George Whitesides,congress,https://unitedstates.github.io/images/congress/original/W000830.jpg,W000830
 gil-cisneros,Gil Cisneros,congress,https://unitedstates.github.io/images/congress/original/C001123.jpg,C001123
-gina-hinojosa,Gina Hinojosa,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Gina_Hinojosa_portrait.jpg,https://ballotpedia.org/Gina_Hinojosa
+gina-hinojosa,Gina Hinojosa,manual,https://secure.actblue.com/x/object/actblue-cyanotypes/replaced_images/branding/473813/d619ec88-0930-4f23-b374-a04acd8f0354-Headshot2-Retouched-6dd5e68a.png,https://ginafortexas.com
 glenn-ivey,Glenn Ivey,congress,https://unitedstates.github.io/images/congress/original/I000058.jpg,I000058
 greg-landsman,Greg Landsman,congress,https://unitedstates.github.io/images/congress/original/L000601.jpg,L000601
 greg-stanton,Greg Stanton,congress,https://unitedstates.github.io/images/congress/original/S001211.jpg,S001211
@@ -78,13 +78,13 @@ helena-buonanno-foulkes,Helena Buonanno Foulkes,manual,https://s3.amazonaws.com/
 herb-conaway,Herb Conaway,congress,https://unitedstates.github.io/images/congress/original/C001136.jpg,C001136
 hillary-scholten,Hillary Scholten,congress,https://unitedstates.github.io/images/congress/original/S001221.jpg,S001221
 jack-reed,Jack Reed,congress,https://unitedstates.github.io/images/congress/original/R000122.jpg,R000122
-jacqui-irwin,Jacqui Irwin,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Jacqui_Irwin.jpg,https://ballotpedia.org/Jacqui_Irwin
+jacqui-irwin,Jacqui Irwin,manual,https://images.squarespace-cdn.com/content/v1/5df831e93182260fee97e615/1599848185766-G3TZDU3F46TBSYJD2GAO/meeno-Jacqui+2020.08+-0238+%281%29.jpeg,https://jacquiirwin.com/photo-gallery
 jahana-hayes,Jahana Hayes,congress,https://unitedstates.github.io/images/congress/original/H001081.jpg,H001081
 jake-auchincloss,Jake Auchincloss,congress,https://unitedstates.github.io/images/congress/original/A000148.jpg,A000148
-jake-johnson,Jake Johnson,manual,https://s3.amazonaws.com/ballotpedia-api4/files/headshot_20260926_153053_59047_1.jpg,https://ballotpedia.org/Jake_Johnson_(Minnesota)
+jake-johnson,Jake Johnson,manual,"https://run.imgix.net/98efac20-09d5-40de-bced-671be80133fe/03447014-d5e8-4c07-8822-4fca2f06ea84/03447014-d5e8-4c07-8822-4fca2f06ea84.jpeg?rect=640,1900,2880,3600&w=1600&q=85",https://www.jakejohnsonforcongress.com/media-kit
 james-talarico,James Talarico,wikipedia,https://upload.wikimedia.org/wikipedia/commons/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled,James Talarico
 james-walkinshaw,James Walkinshaw,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Congressman_Walkinshaw_Official_Portrait.jpg/960px-Congressman_Walkinshaw_Official_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,James Walkinshaw
-jamie-ager,Jamie Ager,manual,https://s3.amazonaws.com/ballotpedia-api4/files/JamieAger2025.png,https://ballotpedia.org/Jamie_Ager
+jamie-ager,Jamie Ager,manual,https://agerforcongress.com/wp-content/uploads/2026/07/Jamie-Ager-Headshot-Square.jpg,https://agerforcongress.com/media
 janelle-bynum,Janelle Bynum,congress,https://unitedstates.github.io/images/congress/original/B001326.jpg,B001326
 janelle-stelson,Janelle Stelson,manual,https://s3.amazonaws.com/ballotpedia-api4/files/JanelleStelson.png,https://ballotpedia.org/Janelle_Stelson
 jared-moskowitz,Jared Moskowitz,congress,https://unitedstates.github.io/images/congress/original/M001217.jpg,M001217
@@ -98,7 +98,7 @@ jessica-killin,Jessica Killin,manual,https://s3.amazonaws.com/ballotpedia-api4/f
 jim-costa,Jim Costa,congress,https://unitedstates.github.io/images/congress/original/C001059.jpg,C001059
 jim-himes,Jim Himes,congress,https://unitedstates.github.io/images/congress/original/H001047.jpg,H001047
 jimmy-panetta,Jimmy Panetta,congress,https://unitedstates.github.io/images/congress/original/P000613.jpg,P000613
-joanna-mendoza,JoAnna Mendoza,manual,https://s3.amazonaws.com/ballotpedia-api4/files/jmendoza.jpg,https://ballotpedia.org/JoAnna_Mendoza
+joanna-mendoza,JoAnna Mendoza,manual,https://jstreetpac.org/wp-content/uploads/2025/06/JoAnna-Mendoza-Headshot-1.jpeg,https://jstreetpac.org/candidate/joanna-mendoza/
 joaquin-castro,Joaquin Castro,congress,https://unitedstates.github.io/images/congress/original/C001091.jpg,C001091
 jocelyn-benson,Jocelyn Benson,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/SOS_Jocelyn_Benson_web.jpg/960px-SOS_Jocelyn_Benson_web.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Jocelyn Benson
 joe-courtney,Joe Courtney,congress,https://unitedstates.github.io/images/congress/original/C001069.jpg,C001069
@@ -109,19 +109,19 @@ john-mannion,John Mannion,congress,https://unitedstates.github.io/images/congres
 johnny-garcia,Johnny Garcia,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Johnny_Garcia_20251021_102841.jpeg,https://ballotpedia.org/Johnny_Garcia_(Texas_congressional_candidate)
 johnny-olszewski,Johnny Olszewski,congress,https://unitedstates.github.io/images/congress/original/O000176.jpg,O000176
 jon-ossoff,Jon Ossoff,congress,https://unitedstates.github.io/images/congress/original/O000174.jpg,O000174
-jonathan-kreiss-tomkins,Jonathan Kreiss-Tomkins,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Sitka_Background_off_center_20260430_191504_19058.jpeg,https://ballotpedia.org/Jonathan_Kreiss-Tomkins
+jonathan-kreiss-tomkins,Jonathan Kreiss-Tomkins,manual,https://images.squarespace-cdn.com/content/v1/6982d88f853910439067d086/1770182800959-REUC5VHR4WA3AZFEMM0L/JKT011926_3.jpg,https://www.jktforak.com/meet-jkt
 jonathan-nez,Jonathan Nez,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Jonathan_Nez_%28B_cropped%29.jpg/960px-Jonathan_Nez_%28B_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Jonathan Nez
 josh-gottheimer,Josh Gottheimer,congress,https://unitedstates.github.io/images/congress/original/G000583.jpg,G000583
-josh-green,Josh Green,wikipedia,https://upload.wikimedia.org/wikipedia/commons/0/0e/Josh_Green_Official_Photo_2022_%28cropped%29_1cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled,Josh Green (politician)
+josh-green,Josh Green,manual,https://governor.hawaii.gov/wp-content/uploads/2023/02/governor_green_-046.jpg,https://governor.hawaii.gov/about/
 josh-harder,Josh Harder,congress,https://unitedstates.github.io/images/congress/original/H001090.jpg,H001090
 josh-riley,Josh Riley,congress,https://unitedstates.github.io/images/congress/original/R000622.jpg,R000622
-josh-shapiro,Josh Shapiro,wikipedia,https://upload.wikimedia.org/wikipedia/commons/0/02/Gov._Shapiro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled,Josh Shapiro
+josh-shapiro,Josh Shapiro,manual,https://www.pa.gov/content/dam/copapwp-pagov/en/governor/headshot/governor_shapiro_headshot.jpg,https://www.pa.gov/governor/meet-governor-josh-shapiro.html
 josh-turek,Josh Turek,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Joshua_Turek_%28cropped_2%29.jpg/960px-Joshua_Turek_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Josh Turek
 juan-vargas,Juan Vargas,congress,https://unitedstates.github.io/images/congress/original/V000130.jpg,V000130
 juliana-stratton,Juliana Stratton,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Juliana_Stratton_2023_%28cropped%29.jpg/960px-Juliana_Stratton_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Juliana Stratton
 julie-johnson,Julie Johnson,congress,https://unitedstates.github.io/images/congress/original/J000310.jpg,J000310
-kathy-hochul,Kathy Hochul,manual,https://s3.amazonaws.com/ballotpedia-api4/files/ad05paDl_400x400.jpg,https://ballotpedia.org/Kathy_Hochul
-katie-hobbs,Katie Hobbs,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Katie_Hobbs_2026.jpg/960px-Katie_Hobbs_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Katie Hobbs
+kathy-hochul,Kathy Hochul,manual,https://www.governor.ny.gov/sites/default/files/2023-01/GovKathyHochul_FeatureBio_Photo.jpg,https://www.governor.ny.gov/
+katie-hobbs,Katie Hobbs,manual,https://www.nga.org/wp-content/uploads/2023/01/governor-katie-hobbs.jpeg,https://www.nga.org/governor/katie-hobbs/
 keisha-lance-bottoms,Keisha Lance Bottoms,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Keisha_Lance_Bottoms.jpg/960px-Keisha_Lance_Bottoms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Keisha Lance Bottoms
 kelly-morrison,Kelly Morrison,congress,https://unitedstates.github.io/images/congress/original/M001234.jpg,M001234
 kenneth-casner,Kenneth Casner,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Screenshot_2018-08-14-10-27-59-1.png,https://ballotpedia.org/Ken_Casner
@@ -131,27 +131,27 @@ kristen-mcdonald-rivet,Kristen McDonald Rivet,congress,https://unitedstates.gith
 laura-friedman,Laura Friedman,congress,https://unitedstates.github.io/images/congress/original/F000483.jpg,F000483
 laura-gillen,Laura Gillen,congress,https://unitedstates.github.io/images/congress/original/G000602.jpg,G000602
 leela-gray,Leela Gray,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Leela_Gray_20260317_052703.jpg,https://ballotpedia.org/Leela_Gray
-lindsay-james,Lindsay James,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Lindsay-James.PNG,https://ballotpedia.org/Lindsay_James
+lindsay-james,Lindsay James,manual,https://run.imgix.net/becc34d9-ed8e-42ef-89be-86cb643c17e9/1c80ed44-c867-4987-9dd5-6a2a18c0a553/0cb3078e-8365-40f1-a821-d1f2575abb43.webp,https://www.lindsayforiowa.com
 lizzie-fletcher,Lizzie Fletcher,congress,https://unitedstates.github.io/images/congress/original/F000468.jpg,F000468
 lori-trahan,Lori Trahan,congress,https://unitedstates.github.io/images/congress/original/T000482.jpg,T000482
 lou-correa,Lou Correa,congress,https://unitedstates.github.io/images/congress/original/C001110.jpg,C001110
 lucy-mcbath,Lucy McBath,congress,https://unitedstates.github.io/images/congress/original/M001208.jpg,M001208
 lynne-walz,Lynne Walz,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Lynne_WalzNE2_2026-04-28_192741.jpg,https://ballotpedia.org/Lynne_Walz
 madeleine-dean,Madeleine Dean,congress,https://unitedstates.github.io/images/congress/original/D000631.jpg,D000631
-manny-rutinel,Manny Rutinel,manual,https://s3.amazonaws.com/ballotpedia-api4/files/mrutinel.png,https://ballotpedia.org/Manny_Rutinel
+manny-rutinel,Manny Rutinel,manual,https://www.mannyforcolorado.com/s/DSCF8117-main-picture-headshot-1.JPG,https://www.mannyforcolorado.com/media
 marie-gluesenkamp-perez,Marie Gluesenkamp Perez,congress,https://unitedstates.github.io/images/congress/original/G000600.jpg,G000600
 marilyn-strickland,Marilyn Strickland,congress,https://unitedstates.github.io/images/congress/original/S001159.jpg,S001159
 mark-warner,Mark Warner,congress,https://unitedstates.github.io/images/congress/original/W000805.jpg,W000805
 marni-von-wilpert,Marni von Wilpert,wikipedia,https://upload.wikimedia.org/wikipedia/commons/5/50/Marni_von_Wilpert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled,Marni von Wilpert
-marquita-bradshaw,Marquita Bradshaw,manual,https://s3.amazonaws.com/ballotpedia-api4/files/IMG-7913_20260703_205433_44044_1.jpeg,https://ballotpedia.org/Marquita_Bradshaw
+marquita-bradshaw,Marquita Bradshaw,manual,https://run.imgix.net/a2c2e1e5-4319-4e0f-b2d8-d1dac82206c1/02ec65f5-8f9d-4852-945e-e56f4d1b54d3/02ec65f5-8f9d-4852-945e-e56f4d1b54d3.png,https://marquitabradshaw.com
 mary-gay-scanlon,Mary Gay Scanlon,congress,https://unitedstates.github.io/images/congress/original/S001205.jpg,S001205
 mary-peltola,Mary Peltola,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/960px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Mary Peltola
 maura-healey,Maura Healey,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Maura_Healey%2C_official_portrait%2C_governor.jpg/960px-Maura_Healey%2C_official_portrait%2C_governor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Maura Healey
-melissa-bean,Melissa Bean,wikipedia,https://upload.wikimedia.org/wikipedia/commons/e/e5/Melissa_Bean_Official.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled,Melissa Bean
+melissa-bean,Melissa Bean,manual,https://run.imgix.net/01a39ac7-16f9-4503-be10-d460e6101335/964bfd9f-b8aa-487a-abf2-fe05a2299c04/964bfd9f-b8aa-487a-abf2-fe05a2299c04.jpeg,https://www.melissabeanforcongress.com
 mike-levin,Mike Levin,congress,https://unitedstates.github.io/images/congress/original/L000593.jpg,L000593
 mike-quigley,Mike Quigley,congress,https://unitedstates.github.io/images/congress/original/Q000023.jpg,Q000023
 mike-thompson,Mike Thompson,congress,https://unitedstates.github.io/images/congress/original/T000460.jpg,T000460
-mitchell-berman,Mitchell Berman,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Mitchell_Berman.png,https://ballotpedia.org/Mitchell_Berman
+mitchell-berman,Mitchell Berman,manual,https://drive.google.com/uc?export=download&id=1mv-3xAHzcquF19IkgPh8KAI-BusJSwSV,https://www.bermanforcongress.com/media
 morgan-mcgarvey,Morgan McGarvey,congress,https://unitedstates.github.io/images/congress/original/M001220.jpg,M001220
 ned-lamont,Ned Lamont,wikipedia,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Governor_Ned_Lamont_of_Connecticut%2C_official_portrait.jpg/960px-Governor_Ned_Lamont_of_Connecticut%2C_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail,Ned Lamont
 nellie-pou,Nellie Pou,congress,https://unitedstates.github.io/images/congress/original/P000621.jpg,P000621
@@ -161,7 +161,7 @@ norma-torres,Norma Torres,congress,https://unitedstates.github.io/images/congres
 paige-cognetti,Paige Cognetti,manual,https://s3.amazonaws.com/ballotpedia-api4/files/meet-paige_20260701_023034_30717_1.jpg,https://ballotpedia.org/Paige_Cognetti
 pat-ryan,Pat Ryan,congress,https://unitedstates.github.io/images/congress/original/R000579.jpg,R000579
 pete-aguilar,Pete Aguilar,congress,https://unitedstates.github.io/images/congress/original/A000371.jpg,A000371
-phil-weiser,Phil Weiser,wikipedia,https://upload.wikimedia.org/wikipedia/commons/6/6c/AG_Phil_Weiser.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled,Phil Weiser
+phil-weiser,Phil Weiser,manual,https://philforcolorado.com/wp-content/uploads/2024/12/HDbg3.jpg,https://philforcolorado.com/
 pia-dandiya,Pia Dandiya,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Pia_Dandiya_20250619_020627.jpg,https://ballotpedia.org/Pia_Dandiya
 raul-ruiz,Raul Ruiz,congress,https://unitedstates.github.io/images/congress/original/R000599.jpg,R000599
 rebecca-bennett,Rebecca Bennett,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Headshot_20260430_181021_18936.jpeg,https://ballotpedia.org/Rebecca_Bennett_(New_Jersey)
@@ -181,8 +181,8 @@ sarah-trone-garriott,Sarah Trone Garriott,wikipedia,https://thumb.wikimedia.org/
 scott-colom,Scott Colom,manual,https://s3.amazonaws.com/ballotpedia-api4/files/ScottColom2025.jpeg,https://ballotpedia.org/Scott_Colom
 scott-peters,Scott Peters,congress,https://unitedstates.github.io/images/congress/original/P000608.jpg,P000608
 sean-casten,Sean Casten,congress,https://unitedstates.github.io/images/congress/original/C001117.jpg,C001117
-sean-mccann,Sean McCann,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Sean_McCann.jpg,https://ballotpedia.org/Sean_McCann
-seth-bodnar,Seth Bodnar,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Seth-Bodnar-Picture_20260601_180823_38181_1.jpg,https://ballotpedia.org/Seth_Bodnar
+sean-mccann,Sean McCann,manual,https://senatedems.com/mccann/wp-content/uploads/sites/20/2022/12/MDS_McCann_DSC5430.jpg,https://senatedems.com/mccann/bio/
+seth-bodnar,Seth Bodnar,manual,https://run.imgix.net/ce73de18-3d81-4625-8bb3-7868e4c01170/5e66deac-ec6f-431d-beab-bcc3f7b2d975/5e66deac-ec6f-431d-beab-bcc3f7b2d975.jpg,https://www.sethformontana.com/
 shannon-taylor,Shannon Taylor,manual,https://s3.amazonaws.com/ballotpedia-api4/files/Shannon_Taylor_2025.jpg,https://ballotpedia.org/Shannon_Taylor_(Virginia)
 sharice-davids,Sharice Davids,congress,https://unitedstates.github.io/images/congress/original/D000629.jpg,D000629
 shomari-figures,Shomari Figures,congress,https://unitedstates.github.io/images/congress/original/F000481.jpg,F000481
